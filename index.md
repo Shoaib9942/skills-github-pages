@@ -1,3 +1,3 @@
 ---
-title: Daily Engineer Gems 
+title: Daily Engineering Gems 
 ---
